@@ -40,7 +40,7 @@
 <?php 
 
 //determine whether to show logged out or logged in nav
-session_start();
+/*session_start();
 if($_SESSION['login'] == 1) {
 	
 	
@@ -49,7 +49,7 @@ if($_SESSION['login'] == 1) {
 	
 	
 }
-
+*/
 //include "layout/" . $nav; ?>
 
 

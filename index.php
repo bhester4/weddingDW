@@ -1,7 +1,5 @@
-<h2>TESTING</h2>
+<?php
 
-<?PHP
-
-echo "Testtest";
-
+echo "this is a Gallifrey";
+  
 ?>

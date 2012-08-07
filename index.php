@@ -28,15 +28,15 @@
 <?php 
 
 //determine whether to show logged out or logged in nav
-session_start();
-if($_SESSION['login'] == 1) {
+//session_start();
+//if($_SESSION['login'] == 1) {
 	
 	
 	
-} else {
+//} else {
 	
 	
-}
+//}
 
 //include "layout/" . $nav; ?>
 

@@ -4,3 +4,30 @@ body {
 	background-position: center;
 	background-repeat: no-repeat;
 }
+
+.splashDalek {
+	position: absolute;
+	top:80%;
+}
+
+#dalekRight {
+	left:20%
+}
+
+#dalekLeft {
+	left:75%
+}
+
+.date {
+	position: absolute;
+	top:80%;
+	color:white;
+	font-size: 8em;
+}
+
+#month {
+	left:35%;	
+}
+#year {
+	left:51%;
+}

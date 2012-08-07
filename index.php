@@ -11,6 +11,8 @@ echo "this is a Gallifrey";
 	</head>
 	<body>
 		<h3>Tardis</h3>
-		<img src="images/dalek_red_side-view-small.png" height="150px"/>
+		<a href="inside.php"><img class="splashDalek" id="dalekRight" src="images/dalek_red_face-right.png" height="150px"/></a>
+		<span class="date" id="month">07/1</span><span class="date" id="year">2/13</span>
+		<a href="inside.php"><img class="splashDalek" id="dalekLeft" src="images/dalek_red_face-left.png" height="150px"/></a>
 	</body>
 </html>

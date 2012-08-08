@@ -1,0 +1,8 @@
+body {
+	background-color: black;
+	background-image: url('../images/tardis_interior.jpg');
+	background-position: center;
+	background-size:100%;
+	-moz-background-size:100% 100%;
+	background-repeat: no-repeat;
+}

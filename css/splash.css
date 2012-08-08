@@ -3,19 +3,43 @@ body {
 	background-image: url('../images/tardis_front.png');
 	background-position: center;
 	background-repeat: no-repeat;
+	text-align: center;
+	color:#FFFFFF;
+}
+div#daleks {
+	 /*overflow: visible;*/
+	 width:99%;
+	 height:200px;
+	 position:absolute;
+	 top:80%;
+	 left:-1000em;
+	 overflow:hidden;
+
 }
 
 .splashDalek {
 	position: absolute;
-	top:80%;
+	height: 150px;
 }
 
-#dalekRight {
-	left:20%
+div.faceRight {
+ width: 180px;
+ height: 150px;
+ background: url(../images/dalek_red_face-right.png);
+ background-size:contain;
+ background-repeat: no-repeat;
+ position: absolute;
+ right: -10px;
 }
 
-#dalekLeft {
-	left:75%
+div.faceLeft {
+ width: 180px;
+ height: 150px;
+ background: url(../images/dalek_red_face-left.png);
+ background-size:contain;
+ background-repeat: no-repeat;
+ position: absolute;
+ right: 10px;
 }
 
 .date {

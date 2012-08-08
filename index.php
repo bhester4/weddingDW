@@ -1,6 +1,6 @@
 <?php
 
-//Futreu spot for if statements to guide page and set varibles
+//Future spot for if statements to guide page and set varibles
   
 ?>
 

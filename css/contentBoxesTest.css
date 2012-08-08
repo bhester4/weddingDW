@@ -1,0 +1,42 @@
+html, body, div, h1, h2, p {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #007ae1;
+}
+a:hover {
+	color: #003c6f;
+}
+
+h2 {
+	text-align: center;
+	padding-top: 20px;
+	margin-bottom: 10px;
+	font: 24px Georgia;
+	color: #333;
+}
+
+p {
+	font: 13px Helvetica, Arial;
+	color: #333;
+	padding: 10px 15px 10px 15px;
+}
+
+#container {
+	margin: 30px auto;
+	width: 25%;
+	height: auto;
+	border: 1px solid #fff;
+	border-radius: 10px; /*Fallback for if/when IE supports it*/
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	background: #ffffff; /*fallback for IE*/
+	background: -moz-linear-gradient(top, #1a1aff, #2060ff 15%);
+	background: -webkit-gradient(linear, 0 0, 0 15%, from(#1a1aff), to(#2060ff));
+	box-shadow: 10px 10px 5px #999;
+	-moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}

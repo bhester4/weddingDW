@@ -154,35 +154,35 @@
 	height: 30px;
 	width: 30px;
 	cursor: pointer;
-	background: url(galleryPlugin/galleryThemes/light/play-big.png) top left no-repeat;
+	background: url(galleryPlugin/galleryThemes/dark/play-big.png) top left no-repeat;
 }
 .gv_navPause {
 	height: 30px;
 	width: 30px;
 	cursor: pointer;
-	background: url(galleryPlugin/galleryThemes/light/pause-big.png) top left no-repeat;
+	background: url(galleryPlugin/galleryThemes/dark/pause-big.png) top left no-repeat;
 }
 .gv_navNext {
 	height: 20px;
 	width: 20px;
 	cursor: pointer;
-	background: url(galleryPlugin/galleryThemes/light/next.png) top left no-repeat;
+	background: url(galleryPlugin/galleryThemes/dark/next.png) top left no-repeat;
 }
 .gv_navPrev {
 	height: 20px;
 	width: 20px;
 	cursor: pointer;
-	background: url(galleryPlugin/galleryThemes/light/prev.png) top right no-repeat;
+	background: url(galleryPlugin/galleryThemes/dark/prev.png) top right no-repeat;
 }
 .gv_panelNavNext {
 	height: 40px;
 	width: 40px;
 	cursor: pointer;
-	background: url(galleryPlugin/galleryThemes/light/panel-next-big.png) top left no-repeat;
+	background: url(galleryPlugin/galleryThemes/dark/panel-next-big.png) top left no-repeat;
 }
 .gv_panelNavPrev {
 	height: 40px;
 	width: 40px;
 	cursor: pointer;
-	background: url(galleryPlugin/galleryThemes/light/panel-prev-big.png) top right no-repeat;
+	background: url(galleryPlugin/galleryThemes/dark/panel-prev-big.png) top right no-repeat;
 }
